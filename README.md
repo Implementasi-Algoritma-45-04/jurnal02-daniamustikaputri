@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706210088
 
-Nama: 
+Nama: Dania Mustika Putri
